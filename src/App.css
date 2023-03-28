@@ -1,3 +1,11 @@
+.flexbox {
+  margin: 0 auto;
+  justify-content: space-around;
+  display: flex;
+  max-width: 1024px;
+  flex-direction: row;
+}
+
 .Center {
   text-align: center;
   margin: auto;
